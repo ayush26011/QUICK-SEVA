@@ -1,0 +1,13 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+nora-demo.myshopify.com	TRUE	/	FALSE	1999999999	_tracking_consent	%7B%22v%22%3A%222.1%22%2C%22con%22%3A%7B%22CMP%22%3A%7B%22p%22%3A%22%22%2C%22s%22%3A%22%22%2C%22m%22%3A%22%22%2C%22a%22%3A%22%22%7D%7D%2C%22region%22%3A%22INUP%22%2C%22reg%22%3A%22%22%7D
+nora-demo.myshopify.com	TRUE	/	FALSE	1999999999	_landing_page	%2F
+nora-demo.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_essential	:AY73SIbGAAH_nzn0fjlKEks0KBNtKy_LBgEoI3HBxP5VuCwsdziHJMASo8MaY1tK6QLhXag4lsYJ-sRnaLIt_vyw9dtq21V9vg==:
+nora-demo.myshopify.com	TRUE	/	FALSE	1999999999	localization	IN
+nora-demo.myshopify.com	TRUE	/	FALSE	1999999999	cart_currency	USD
+nora-demo.myshopify.com	TRUE	/	FALSE	1999999999	_cmp_a	%7B%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D
+nora-demo.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_y	33d7fb79-7c03-47c9-a391-aaa0e63d6acd
+nora-demo.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_s	3970ccdf-0453-4b0c-8ef8-eab6101f6ca9
+nora-demo.myshopify.com	TRUE	/	FALSE	1999999999	keep_alive	d7ce53ef-74dd-4469-986b-26290855327e
+nora-demo.myshopify.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
